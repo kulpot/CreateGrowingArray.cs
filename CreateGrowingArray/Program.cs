@@ -13,6 +13,7 @@ namespace CreateGrowingArray
         {
             int[] tempArray = new int[5];
             int[] tempArray2 = new int[5];
+            int[] tempArray3 = new int[5];
         }
     }
 }
