@@ -9,5 +9,10 @@ namespace CreateGrowingArray
     class GrowingArrray
     {
         private int[] intArray;
+
+        public GrowingArrray()
+        {
+
+        }
     }
 }
