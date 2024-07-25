@@ -14,5 +14,10 @@ namespace CreateGrowingArray
         {
             intArray = new int[2];
         }
+
+        public void Add(int intToAdd)
+        {
+
+        }
     }
 }
