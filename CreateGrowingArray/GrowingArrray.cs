@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CreateGrowingArray
 {
-    internal class GrowingArrray
+    class GrowingArrray
     {
     }
 }
