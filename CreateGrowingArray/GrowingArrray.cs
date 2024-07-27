@@ -23,6 +23,9 @@ namespace CreateGrowingArray
 
 
             if(currentPosition >= intArray.Length)
+            {
+
+            }
         }
     }
 }
