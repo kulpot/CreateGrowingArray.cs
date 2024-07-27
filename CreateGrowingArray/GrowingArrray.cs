@@ -9,7 +9,7 @@ namespace CreateGrowingArray
     class GrowingArrray
     {
         private int[] intArray;
-        private int currentPosition;
+        private int currentPosition = 0;
 
         public GrowingArrray()
         {
