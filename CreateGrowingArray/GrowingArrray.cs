@@ -20,6 +20,9 @@ namespace CreateGrowingArray
         {
             intArray[currentPosition] = intToAdd;
             currentPosition++;
+
+
+
         }
     }
 }
