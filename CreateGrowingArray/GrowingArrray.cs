@@ -22,7 +22,7 @@ namespace CreateGrowingArray
             currentPosition++;
 
 
-
+            if(currentPosition >= intArray.Length)
         }
     }
 }
