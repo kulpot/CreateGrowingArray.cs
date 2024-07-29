@@ -25,7 +25,7 @@ namespace CreateGrowingArray
             if(currentPosition >= intArray.Length)  
             {
                 //grow array
-
+                int[] tempArray = new int[intArray.Length * 2];
 
             }
         }
