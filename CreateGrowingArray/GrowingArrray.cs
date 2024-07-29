@@ -31,6 +31,8 @@ namespace CreateGrowingArray
                 {
                     tempArray[i] = intArray[i];
                 }
+
+                intArray = tempArray;
             }
         }
     }
