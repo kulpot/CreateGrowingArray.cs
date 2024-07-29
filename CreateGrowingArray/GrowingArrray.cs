@@ -22,8 +22,10 @@ namespace CreateGrowingArray
             currentPosition++;
 
 
-            if(currentPosition >= intArray.Length)
+            if(currentPosition >= intArray.Length)  
             {
+                //grow array
+
 
             }
         }
