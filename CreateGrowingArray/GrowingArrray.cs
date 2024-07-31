@@ -16,7 +16,7 @@ namespace CreateGrowingArray
             intArray = new int[2];
         }
 
-        public void Add(int intToAdd)             
+        public void Add(int intToAdd)              
         {
             intArray[currentPosition] = intToAdd; 
             currentPosition++;
