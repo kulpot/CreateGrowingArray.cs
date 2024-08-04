@@ -16,6 +16,7 @@ namespace CreateGrowingArray
             array.Add(5);
             array.Add(60);
             array.Add(4);
+            array.Add(56);
 
 
 
