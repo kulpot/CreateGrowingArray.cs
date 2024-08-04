@@ -34,6 +34,8 @@ namespace CreateGrowingArray
 
                 intArray = tempArray;   //delete copied array to garbage collector 
             }
+
+
         }
     }
 }
