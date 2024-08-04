@@ -13,7 +13,7 @@ namespace CreateGrowingArray
         {
             GrowingArrray array = new GrowingArrray();
 
-
+            array.Add(5);
 
 
 
