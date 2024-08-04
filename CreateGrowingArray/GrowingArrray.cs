@@ -38,7 +38,10 @@ namespace CreateGrowingArray
 
         public void Display()
         {
+            foreach(int x in intArray)
+            {
 
+            }
         }
     }
 }
