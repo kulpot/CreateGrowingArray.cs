@@ -11,7 +11,7 @@ namespace CreateGrowingArray
     {
         static void Main(string[] args)
         {
-
+            GrowingArrray array = new GrowingArrray();
 
 
 
