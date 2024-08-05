@@ -32,7 +32,7 @@ namespace CreateGrowingArray
                     tempArray[i] = intArray[i];
                 }
 
-                intArray = tempArray;   //delete copied array to garbage collector 
+                intArray = tempArray;   //delete copied array to garbage collector  
             }
         }
 
