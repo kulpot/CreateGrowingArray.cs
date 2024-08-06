@@ -26,7 +26,7 @@ namespace CreateGrowingArray
             {
                 //grow array    
                 int[] tempArray = new int[intArray.Length * 2];
-                //copy the data to the new array     
+                //copy the data to the new array      
                 for(int i = 0; i < intArray.Length; i++)
                 {
                     tempArray[i] = intArray[i];
