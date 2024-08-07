@@ -40,7 +40,7 @@ namespace CreateGrowingArray
         {
             foreach(int x in intArray)
             {
-                Console.WriteLine(x);
+                Console.WriteLine(x); 
             }
         }
     }
