@@ -40,6 +40,8 @@ namespace CreateGrowingArray
         {
             foreach(int x in intArray)
             {
+                if(x != 0)
+                { }
                 Console.WriteLine(x); 
             }
         }
