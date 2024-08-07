@@ -40,7 +40,7 @@ namespace CreateGrowingArray
         {
             foreach(int x in intArray)
             {
-                if (x != 0)
+                if (x != 0)     // For display the rest to zeroes
                 {
                     Console.WriteLine(x);
                 }
