@@ -25,7 +25,7 @@ namespace CreateGrowingArray
             array.Display();
 
 
-                              
+                               
 
 
             //int[] tempArray = new int[5];  
